@@ -1,6 +1,7 @@
 #  📽️A Troubleshooting Guide For Projectors
 
-### By Faizan Khan and Adebayo Dada
+### Informed By: Faizan Khan and Adebayo Dada
+### Prepared By: Faizan Khan
 
 [![Epson-Projector.jpg](https://i.postimg.cc/jqgg2Y8t/Epson-Projector.jpg)](https://postimg.cc/BtFc7k9V)
 
