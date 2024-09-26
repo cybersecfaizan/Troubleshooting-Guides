@@ -1,7 +1,7 @@
-#  📽️A Troubleshooting Guide For Projectors
+#  📽️A Troubleshooting Guide For The New BL Epson Interactive Short-Throw Projectors
 
-### Informed By: Faizan Khan and Adebayo Dada
-### Prepared By: Faizan Khan
+### Informed By: Informed By: Faizan, Adebayo And The Tech Team
+### Prepared By: Faizan
 
 [![Epson-Projector.jpg](https://i.postimg.cc/jqgg2Y8t/Epson-Projector.jpg)](https://postimg.cc/BtFc7k9V)
 
