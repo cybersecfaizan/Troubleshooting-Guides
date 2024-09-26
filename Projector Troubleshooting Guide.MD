@@ -9,16 +9,12 @@ The objective of this guide is to provide clear troubleshooting steps for the mo
 # Initial Steps for Troubleshooting
 
 1. **Check Cable Connections** 
-
-&nbsp;
-  
-   Begin by inspecting the cables connected to the projector. Ensure that the HDMI and power cables are securely inserted into their respective ports. A frequent issue arises when users disconnect the HDMI cable from their laptop and forget to reconnect it before their next presentation.
+&nbsp;  
+Begin by inspecting the cables connected to the projector. Ensure that the HDMI and power cables are securely inserted into their respective ports. A frequent issue arises when users disconnect the HDMI cable from their laptop and forget to reconnect it before their next presentation.
 
 2. **If the Issue Persists**  
-
 &nbsp;
-
-   If checking the cables does not resolve the problem, refer to the specific guides below.
+If checking the cables does not resolve the problem, refer to the specific guides below.
 
 # 🖵 Issues with Projecting on the Screen
 
@@ -29,10 +25,8 @@ The objective of this guide is to provide clear troubleshooting steps for the mo
 A temporary solution that often works is to configure screen mirroring between your laptop and the projector. Here’s how to do it:
 
 1. **Access the Projector Menu**  
-
 &nbsp;
-
-   Press the “Home” button on the projector’s remote. This will display various input options.
+Press the “Home” button on the projector’s remote. This will display various input options.
 
    [![epson-remote-final.png](https://i.postimg.cc/7LrK4RJ1/epson-remote-final.png)](https://postimg.cc/TKQVqC9h)
 
