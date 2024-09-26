@@ -89,7 +89,7 @@ Press the **Menu** button on the remote control.
 
 
 2. **Navigate to the Installation Tab**<br />
-   Once the menu screen appears, navigate to the **Installation** tab and then select the **Geometry Correction** option.
+Once the menu screen appears, navigate to the **Installation** tab and then select the **Geometry Correction** option.
 
 [![Menu-Geo-1-Final.png](https://i.postimg.cc/9Qd9qWFS/Menu-Geo-1-Final.png)](https://postimg.cc/HrLnq1M4)
 
