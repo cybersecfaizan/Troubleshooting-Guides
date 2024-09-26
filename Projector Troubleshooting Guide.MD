@@ -1,4 +1,4 @@
-#  📽️A Troubleshooting Guide For The New BL Epson Interactive Short-Throw Projectors
+#  📽️ A Troubleshooting Guide For The New BL Epson Interactive Short-Throw Projectors
 
 ### Informed By: Faizan, Adebayo And The Tech Team
 ### Prepared By: Faizan
@@ -76,9 +76,6 @@ You will now see the **Image Shift** screen. Use the arrow buttons on the remote
 
 [![Image-S-Screen.jpg](https://i.postimg.cc/13kbMNbv/Image-S-Screen.jpg)](https://postimg.cc/68hHpTWZ)
 
-5. **Confirm with the User**<br />
-Be sure to confirm with the User that the new screen position is acceptable.
-
 # 〽️Troubleshooting Warped Projection
 
 *A further reported issue is that the projection or screen appears warped. Typically, one side of the screen displays “normal” proportions, while the other side appears bent.*
@@ -111,5 +108,3 @@ Use the projector remote to adjust the **Vertical (V) Keystone** and/or the **Ho
 
 [![KS-Menu.jpg](https://i.postimg.cc/TP7m9tMv/KS-Menu.jpg)](https://postimg.cc/gwhncq2g)
 
-6. **Confirm with the User**<br />
-Finally, check with the User to ensure that the screen’s appearance is now acceptable.
