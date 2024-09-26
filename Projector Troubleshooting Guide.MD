@@ -9,7 +9,7 @@
 The objective of this guide is to provide clear troubleshooting steps for the most common projector issues. Many of these problems can be resolved by navigating the menu using the projector's remote. However, with numerous menu options available, it is not always clear where to navigate in order to address a specific issue. This guide aims to alleviate that confusion.
 
 
-# Initial Steps for Troubleshooting
+# 🏁 Initial Steps for Troubleshooting
 
 1. **Check Cable Connections** <br />
 Begin by inspecting the cables connected to the projector. Ensure that the HDMI and power cables are securely inserted into their respective ports. A frequent issue arises when users disconnect the HDMI cable from their laptop and forget to reconnect it before their next presentation.
@@ -49,7 +49,7 @@ On the laptop you wish to project from, press the “Windows Key” + “K” si
 5. **Choose the Projector**<br />
 Locate the projector's name that you noted earlier in the list of available devices. Click on it to start screen mirroring.
 
-### Important Note<br />
+### ⚠️ Important Note<br />
 Be aware that there may be a slight input lag for the audience when using screen mirroring.
 
 # ↔️ ↕️ Adjusting Projector Height
