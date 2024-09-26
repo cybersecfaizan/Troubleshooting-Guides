@@ -9,10 +9,12 @@ The objective of this guide is to provide clear troubleshooting steps for the mo
 # Initial Steps for Troubleshooting
 
 1. **Check Cable Connections** 
+
 &nbsp;  
 Begin by inspecting the cables connected to the projector. Ensure that the HDMI and power cables are securely inserted into their respective ports. A frequent issue arises when users disconnect the HDMI cable from their laptop and forget to reconnect it before their next presentation.
 
 2. **If the Issue Persists**  
+
 &nbsp;
 If checking the cables does not resolve the problem, refer to the specific guides below.
 
