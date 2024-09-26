@@ -108,5 +108,5 @@ Use the projector remote to adjust the **Vertical (V) Keystone** and/or the **Ho
 
 [![KS-Menu.jpg](https://i.postimg.cc/TP7m9tMv/KS-Menu.jpg)](https://postimg.cc/gwhncq2g)
 
-6. **Confirm with the User**<br />  
+6. **Confirm with the User**<br />
 Finally, check with the User to ensure that the screen’s appearance is now acceptable.
