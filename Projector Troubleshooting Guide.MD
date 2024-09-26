@@ -24,31 +24,31 @@ The objective of this guide is to provide clear troubleshooting steps for the mo
 
 A temporary solution that often works is to configure screen mirroring between your laptop and the projector. Here’s how to do it:
 
-1. **Access the Projector Menu**  
+1. **Access the Projector Menu**  &nbsp;
    Press the “Home” button on the projector’s remote. This will display various input options.
 
    [![epson-remote-final.png](https://i.postimg.cc/7LrK4RJ1/epson-remote-final.png)](https://postimg.cc/TKQVqC9h)
 
-2. **Select Screen Mirroring**  
+2. **Select Screen Mirroring**  &nbsp;
    Navigate to "Screen Mirroring 1" using the remote and select it.
 
    [![Epson-Home-Menu-Final.png](https://i.postimg.cc/L6nq46zR/Epson-Home-Menu-Final.png)](https://postimg.cc/YhB2b7ny)
 
-3. **Connect Using Screen Mirroring**  
+3. **Connect Using Screen Mirroring**  &nbsp;
    You will be taken to the "Connect Using Screen Mirroring" screen. Take note of the projector's name, as you will need it to connect from your laptop.
 
    [![screen-Mirror-Final-Screen.png](https://i.postimg.cc/RZWbTfK8/screen-Mirror-Final-Screen.png)](https://postimg.cc/xXSRfXsy)
 
-4. **Initiate Screen Mirroring on Your Laptop**  
+4. **Initiate Screen Mirroring on Your Laptop** &nbsp; 
    On the laptop you wish to project from, press the “Windows Key” + “K” simultaneously. This action will open the “Connect” side panel.
 
   [![KB-Final.png](https://i.postimg.cc/QN57cMFb/KB-Final.png)](https://postimg.cc/Lh9hp2BY)
 
 
-5. **Choose the Projector**  
+5. **Choose the Projector**  &nbsp;
    Locate the projector's name that you noted earlier in the list of available devices. Click on it to start screen mirroring.
 
-### Important Note
+### Important Note &nbsp;
 Be aware that there may be a slight input lag for the audience when using screen mirroring.
 
 # ↔️ ↕️ Adjusting Projector Height
