@@ -55,25 +55,25 @@ Be aware that there may be a slight input lag for the audience when using screen
 
 ## Steps to Adjust the Projector Height
 
-1. **Access the Menu**<br />  
+1. **Access the Menu**<br />
 Press the **Menu** button on the Epson remote.
 
    [![Epson-Menu.png](https://i.postimg.cc/ryZF8Qv3/Epson-Menu.png)](https://postimg.cc/YjgwRf2z)
 
-2. **Navigate to the Installation Tab**<br />  
+2. **Navigate to the Installation Tab**<br />
 Once the menu screen appears, use the remote to navigate down to the **Installation** tab.
 
-3. **Select the Image Shift Option**<br />  
+3. **Select the Image Shift Option**<br />
 From the Installation tab, navigate to the **Image Shift** option and select it.
 
    [![image-shift-f.png](https://i.postimg.cc/NM7D6yw2/image-shift-f.png)](https://postimg.cc/qhq20vqp)
 
-4. **Adjust the Image Position**<br />  
+4. **Adjust the Image Position**<br />
 You will now see the **Image Shift** screen. Use the arrow buttons on the remote to adjust the position of the projected image.
 
 [![Image-S-Screen.jpg](https://i.postimg.cc/13kbMNbv/Image-S-Screen.jpg)](https://postimg.cc/68hHpTWZ)
 
-5. **Confirm with the User**<br />  
+5. **Confirm with the User**<br />
 Be sure to confirm with the User that the new screen position is acceptable.
 
 # 〽️Troubleshooting Warped Projection
@@ -82,28 +82,28 @@ Be sure to confirm with the User that the new screen position is acceptable.
 
 ## Steps to Fix the Warped Projection
 
-1. **Access the Menu**<br />  
+1. **Access the Menu**<br />
 Press the **Menu** button on the remote control.
 
 [![Epson-Menu.png](https://i.postimg.cc/ryZF8Qv3/Epson-Menu.png)](https://postimg.cc/YjgwRf2z)
 
 
-2. **Navigate to the Installation Tab**<br />  
+2. **Navigate to the Installation Tab**<br />
    Once the menu screen appears, navigate to the **Installation** tab and then select the **Geometry Correction** option.
 
 [![Menu-Geo-1-Final.png](https://i.postimg.cc/9Qd9qWFS/Menu-Geo-1-Final.png)](https://postimg.cc/HrLnq1M4)
 
-3. **Choose H/V-Keystone**<br />  
+3. **Choose H/V-Keystone**<br />
 In the Geometry Correction table that appears, select **H/V-Keystone**.
 
 [![HV-Keystone-Final.png](https://i.postimg.cc/2jxh6jyK/HV-Keystone-Final.png)](https://postimg.cc/NL55Cc16)
 
-4. **Confirm the Warning Message** <br /> 
+4. **Confirm the Warning Message** <br />
 When prompted with a warning message, select **Yes**.
 
 [![warning-final.png](https://i.postimg.cc/FztvXQ5b/warning-final.png)](https://postimg.cc/vgvk5kmD)
 
-5. **Adjust Keystone Settings**<br />  
+5. **Adjust Keystone Settings**<br />
 Use the projector remote to adjust the **Vertical (V) Keystone** and/or the **Horizontal (H) Keystone** until the image no longer appears warped.
 
 [![KS-Menu.jpg](https://i.postimg.cc/TP7m9tMv/KS-Menu.jpg)](https://postimg.cc/gwhncq2g)
